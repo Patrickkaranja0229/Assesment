@@ -1,0 +1,19 @@
+#all-todos, #completed-todos, #uncompleted-todos {
+    width: 30%;
+    float: left;
+    margin: 20px;
+  }
+  body {
+    background-color: beige;
+  }
+  h1 {
+    justify-content: center;
+    background-color: blue;
+    text-align: center;
+  }
+  
+  h3 {
+    clear: both;
+    background-color: aqua;
+  }
+  
